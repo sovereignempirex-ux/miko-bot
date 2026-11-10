@@ -18,8 +18,8 @@
 
 ```bash
 # Clone repository
-git https://github.com/sovereignempirex-ux/-ko
-cd -ko
+git clone https://github.com/sovereignempirex-ux/miko-bot.git
+cd miko-bot
 
 # Install dependencies
 npm install
